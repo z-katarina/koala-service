@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/koala-service.iml" filepath="$PROJECT_DIR$/koala-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/koala-service-api/koala-service-api.iml" filepath="$PROJECT_DIR$/koala-service-api/koala-service-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/koala-service-provider/koala-service-provider.iml" filepath="$PROJECT_DIR$/koala-service-provider/koala-service-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/koala-service-web/koala-service-web.iml" filepath="$PROJECT_DIR$/koala-service-web/koala-service-web.iml" />
+    </modules>
+  </component>
+</project>
